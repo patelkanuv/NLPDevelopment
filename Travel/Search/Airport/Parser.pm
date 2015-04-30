@@ -70,7 +70,7 @@ sub parse_airport {
     $self->parse_flagged_airport_codes;
     $self->parse_country_code;
     $self->parse_state_province_code;
-    #$self->get_ip_based_airport_code;
+    $self->get_ip_based_airport_code;
     #$self->parse_flagged_calendar_abbreviation;
     $self->adjust_airport_details;
     
@@ -123,7 +123,7 @@ sub _parse_airport_city_name_tokens {
         my $airport_found_flag   = 0;
         my $index       = 3;
         foreach my $city($self->_get_neighbouring_tokens_data($airport_name_token)) {
-            print $city,"\n";
+            #print $city,"\n";
             $index--;
             next if !defined $city;
             my $all_airports = $self->datacenter->match_by_city_name($city);

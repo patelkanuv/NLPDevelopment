@@ -58,11 +58,10 @@ if the same request is reapeated.
 use Moose;
 use Data::Dumper;
 
-use lib qw(../..);
+use lib qw(../../);
 use Travel::Cache::Manager;
 use Travel::Database::CityData;
-use Travel::IPList::RestOfWorld::Store;
-use Travel::IPList::NorthAmerica::Store;
+use Travel::IPList::IpToAirport;
 
 =head1 ATTRIBUTES
 
@@ -85,8 +84,6 @@ object of class <Travel::Database::CityData>
 =cut
 
 has 'manager'       => (is => 'rw', isa => 'Travel::Cache::Manager');
-has 'na_ip_detail'  => (is => 'rw', isa => 'Travel::IPList::NorthAmerica::Store');
-has 'row_ip_detail' => (is => 'rw', isa => 'Travel::IPList::RestOfWorld::Store');
 has 'city_data'     => (is => 'rw', isa => 'Travel::Database::CityData');
 
 =head1 OBJECT METHODS
@@ -102,8 +99,6 @@ sub BUILD {
     my ($self, $params) = @_;
     
     $self->manager(Travel::Cache::Manager->new( expiry => 30 * 24 * 60 * 60) );
-    $self->na_ip_detail(Travel::IPList::NorthAmerica::Store->new);
-    $self->row_ip_detail(Travel::IPList::RestOfWorld::Store->new);
     $self->city_data(Travel::Database::CityData->new);
     
     return ;
@@ -120,11 +115,8 @@ sub get_nearest_airport {
     
     my $ip_details  = $self->manager->read_cache('IP_Details_'.$ip);
     if(!$ip_details) {
-        my $airport_code    = $self->na_ip_detail->select($ip);
-        if(!$airport_code) {
-            $airport_code    = $self->row_ip_detail->select($ip);
-        }
-        
+        my $ip_to_airport = Travel::IPList::IpToAirport->new('IP' => $ip);
+        my $airport_code  = $ip_to_airport->get_nearest_airport();     
         if($airport_code) {
             $ip_details =$self->match_by_airport_code(lc($airport_code));
             $self->manager->store_cache('IP_Details_'.$ip, $ip_details);

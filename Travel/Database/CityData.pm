@@ -54,6 +54,8 @@ Travel::Database::CityData is interface to perform various search on WorldAirpor
 =cut
 
 use Moose;
+use Data::Dumper;
+
 use lib qw(../../);
 use Travel::Database::DBConfig;
 use Travel::Database::Schema::Result::City;
@@ -233,6 +235,35 @@ sub get_travel_keywords_like {
     return \@result;
 }
 
+sub get_nearest_airport_by_geo_location {
+    my ($self, $latitude, $longitude, $country_code, $distance_within ) = @_;
+  
+    my $distance = '(SQRT( (POWER('
+        .$latitude
+        .'-(latitude*3.14/180), 2)+POWER(('
+        .$longitude
+        .'-(longitude*3.14/180))*COS('
+        .$latitude
+        .'+(latitude*3.14/180)/2), 2))))*6371';
+                    
+    my @airports  = $self->schema->resultset('City')->search({
+        $distance               => { '<' => $distance_within },
+        'LOWER(country_code)'   => lc($country_code),
+        'operating'             => 'true'
+    });
+    
+    return if(!scalar(@airports));
+     
+    my @airport = sort { 
+                            $a->distance($latitude, $longitude) <=> $b->distance($latitude, $longitude)                       
+                       } @airports;
+    
+    #foreach my $air (@airport) {
+    #    print $air->airport_name, ", ",$air->airport_code,"\n";
+    #}
+    
+    return $airport[0]->airport_code if defined $airport[0]->airport_code;
+}
 =head1 LICENSE
 
 This library is private software. You can not redistribute it and/or modify. Its a property of PerlCraft.net
