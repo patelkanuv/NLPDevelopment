@@ -16,13 +16,13 @@ my $schema  = $dbm->get_handle();
 my $cnt = 1;
 my @all_airports    = $schema->resultset('City')->all;
 foreach my $airport_city (@all_airports) {
-    add_word_to_dictionary($airport_city->city_name);
+    add_word_to_dictionary(lc($airport_city->city_name));
 }
 
 my @all_state_prov    = $schema->resultset('ProvinceState')->all;
 #add province names in dictionary
 foreach my $state_prov (@all_state_prov) {
-    add_word_to_dictionary($state_prov->prov_name);
+    add_word_to_dictionary(lc($state_prov->prov_name));
 }
 
 sub add_word_to_dictionary {

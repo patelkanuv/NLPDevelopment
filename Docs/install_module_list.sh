@@ -1,6 +1,6 @@
 #!/bin/sh
 
-apt-get install ispell libdb-dev libberkeleydb-perl libdbd-pg-perl
+apt-get install ispell libdb-dev libberkeleydb-perl libdbd-pg-perl geoip-database libgeo-ip-perl
 
 PERL_MM_USE_DEFAULT=1 cpan Cwd
 PERL_MM_USE_DEFAULT=1 cpan Carp
@@ -38,3 +38,6 @@ PERL_MM_USE_DEFAULT=1 cpan Test::More
 PERL_MM_USE_DEFAULT=1 cpan Data::Validate::IP
 PERL_MM_USE_DEFAULT=1 cpan Catalyst::Model::DBIC::Schema
 PERL_MM_USE_DEFAULT=1 cpan MooseX::NonMoose
+
+#wget -N http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
+
