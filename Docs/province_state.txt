@@ -1,0 +1,65 @@
+province_state_code, province_state_name , country_code, country_name, major_airport
+AB, Alberta, CA, Canada, YYC
+BC, British Columbia, CA, Canada, YVR
+MB, Manitoba, CA, Canada, YTH
+NB, New Brunswick, CA, Canada, YFC
+NL, Newfoundland, CA, Canada, YQX
+NT, Northwest Territory, CA, Canada, YZF
+NS, Nova Scotia, CA, Canada, YHZ
+NU, Nunavut, CA, Canada, YFB
+ON, Ontario, CA, Canada, YYZ
+PE, Prince Edward Island, CA, Canada, YYG 
+QC, Quebec, CA, Canada, YUL
+SK, Saskatchewan, CA, Canada, YQR 
+YT, Yukon Territory, CA, Canada, YXY
+AL, Alabama, US, United States, BHM
+AK, Alaska, US, United States, ANC
+AZ, Arizona, US, United States, PHX
+AR, Arkansas, US, United States, LIT
+CA, California, US, United States, LAS
+CO, Colorado, US, United States, DEN
+CT, Connecticut, US, United States, BDL
+DE, Delaware, US, United States, PHL
+DC, District of Columbia, US, United States, IAD
+FL, Florida, US, United States, MIA
+GA, Georgia, US, United States, ATL
+HI, Hawaii, US, United States, HNL
+ID, Idaho, US, United States, BOI
+IL, Illinois, US, United States, ORD
+IN, Indiana, US, United States, IND
+IA, Iowa, US, United States, DES
+KS, Kansas, US, United States, ICT
+KY, Kentucky, US, United States, CVG
+LA, Louisiana, US, United States, MSY
+ME, Maine, US, United States, PWM
+MD, Maryland, US, United States, BWI
+MA, Massachusetts, US, United States, BOS
+MI, Michigan, US, United States, DTW
+MN, Minnesota, US, United States, MSP
+MS, Mississippi, US, United States, JAN
+MO, Missouri, US, United States, STL
+MT, Montana, US, United States, BIL
+NE, Nebraska, US, United States, OMA
+NV, Nevada, US, United States, LAS
+NH, New Hampshire, US, United States, MHT
+NJ, New Jersey, US, United States, EWR
+NM, New Mexico, US, United States, ABQ
+NY, New York, US, United States, LGA
+NC, North Carolina, US, United States, CLT 
+ND, North Dakota, US, United States, FAR
+OH, Ohio, US, United States, CLE
+OK, Oklahoma, US, United States, OKC
+OR, Oregon, US, United States, PDX
+PA, Pennsylvania, US, United States, PHL
+RI, Rhode Island, US, United States, PVD
+SC, South Carolina, US, United States, CHS
+SD, South Dakota, US, United States, FSD
+TN, Tennessee, US, United States, MEM
+TX, Texas, US, United States, DFW
+UT, Utah, US, United States, SLC
+VT, Vermont, US, United States, BTV
+VA, Virginia, US, United States, SEA
+WA, Washington, US, United States, IAD
+WV, West Virginia, US, United States, CRW
+WI, Wisconsin, US, United States, MKE
+WY, Wyoming, US, United States, JAC

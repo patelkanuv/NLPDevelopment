@@ -1,0 +1,377 @@
+"City","FAA","IATA","ICAO","Airport","Role","Enplanements"
+"Birmingham","BHM","BHM","KBHM","Birmingham-Shuttlesworth International Airport","P-S",1443215
+"Dothan","DHN","DHN","KDHN","Dothan Regional Airport","P-N",41453
+"Huntsville","HSV","HSV","KHSV","Huntsville International Airport (Carl T. Jones Field)","P-S",606127
+"Mobile","MOB","MOB","KMOB","Mobile Regional Airport","P-N",277232
+"Montgomery","MGM","MGM","KMGM","Montgomery Regional Airport (Dannelly Field)","P-N",194540
+"Anchorage","ANC","ANC","PANC","Ted Stevens Anchorage International Airport","P-M",2342310
+"Anchorage","MRI","MRI","PAMR","Merrill Field","P-N",14972
+"Aniak","ANI","ANI","PANI","Aniak Airport","P-N",16394
+"Barrow","BRW","BRW","PABR","Wiley Post–Will Rogers Memorial Airport","P-N",40141
+"Bethel","BET","BET","PABE","Bethel Airport (also see Bethel Seaplane Base)","P-N",144353
+"Cordova","CDV","CDV","PACV","Merle K. (Mudhole) Smith Airport","P-N",17856
+"Deadhorse / Prudhoe Bay","SCC","SCC","PASC","Deadhorse Airport (Prudhoe Bay Airport)","P-N",37319
+"Dillingham","DLG","DLG","PADL","Dillingham Airport","P-N",42927
+"Emmonak","ENM","EMK","PAEM","Emmonak Airport","P-N [nb 1]",10537
+"Fairbanks","FAI","FAI","PAFA","Fairbanks International Airport","P-S",435392
+"Galena","GAL","GAL","PAGA","Edward G. Pitka Sr. Airport","P-N [nb 2]",12421
+"Homer","HOM","HOM","PAHO","Homer Airport","P-N",38407
+"Hoonah","HNH","HNH","PAOH","Hoonah Airport (also see Hoonah Seaplane Base)","P-N [nb 3]",10759
+"Juneau","JNU","JNU","PAJN","Juneau International Airport","P-S",344057
+"Kenai","ENA","ENA","PAEN","Kenai Municipal Airport","P-N",86857
+"Ketchikan","KTN","KTN","PAKT","Ketchikan International Airport","P-N",100138
+"King Salmon","AKN","AKN","PAKN","King Salmon Airport","P-N",41514
+"Kodiak","ADQ","ADQ","PADQ","Kodiak Airport","P-N",80303
+"Kotzebue","OTZ","OTZ","PAOT","Ralph Wien Memorial Airport","P-N",62177
+"Manokotak","MBA","KMO","PAMB","Manokotak Airport","P-N",12409
+"Nome","OME","OME","PAOM","Nome Airport","P-N",56658
+"Petersburg","PSG","PSG","PAPG","Petersburg James A. Johnson Airport","P-N",18468
+"Sitka","SIT","SIT","PASI","Sitka Rocky Gutierrez Airport","P-N",64536
+"Unalakleet","UNK","UNK","PAUN","Unalakleet Airport","P-N",12693
+"Unalaska","DUT","DUT","PADU","Unalaska Airport (Tom Madsen Airport)","P-N",26711
+"Valdez","VDZ","VDZ","PAVD","Valdez Airport (Pioneer Field)","P-N",15739
+"Wrangell","WRG","WRG","PAWG","Wrangell Airport (also see Wrangell Seaplane Base)","P-N",10882
+"Yakutat","YAK","YAK","PAYA","Yakutat Airport (also see Yakutat Seaplane Base)","P-N",10035
+"Bullhead City","IFP","IFP","KIFP","Laughlin/Bullhead International Airport","P-N",121468
+"Flagstaff","FLG","FLG","KFLG","Flagstaff Pulliam Airport","P-N",62109
+"Grand Canyon / Tusayan","GCN","GCN","KGCN","Grand Canyon National Park Airport","P-N",318622
+"Mesa","IWA","AZA","KIWA","Phoenix-Mesa Gateway Airport","P-N",417862
+"Page","PGA","PGA","KPGA","Page Municipal Airport","P-N",20264
+"Peach Springs","1G4","GCW","","Grand Canyon West Airport","P-N",60682
+"Phoenix","PHX","PHX","KPHX","Phoenix Sky Harbor International Airport","P-L",18907171
+"Tucson","TUS","TUS","KTUS","Tucson International Airport","P-M",1844228
+"Yuma","NYL","YUM","KNYL","Yuma International Airport / MCAS Yuma","P-N",82163
+"Fayetteville","XNA","XNA","KXNA","Northwest Arkansas Regional Airport","P-S",549195
+"Fort Smith","FSM","FSM","KFSM","Fort Smith Regional Airport","P-N",83902
+"Little Rock","LIT","LIT","KLIT","Bill and Hillary Clinton National Airport (Adams Field) (was Little Rock National)","P-S",1097403
+"Texarkana","TXK","TXK","KTXK","Texarkana Regional Airport (Webb Field)","P-N",26690
+"Arcata / Eureka","ACV","ACV","KACV","Arcata Airport","P-N",93402
+"Bakersfield","BFL","BFL","KBFL","Meadows Field","P-N",148347
+"Burbank","BUR","BUR","KBUR","Bob Hope Airport","P-M",2239804
+"Carlsbad","CRQ","CLD","KCRQ","McClellan-Palomar Airport","P-N",45518
+"Chico","CIC","CIC","KCIC","Chico Municipal Airport","P-N",23272
+"Crescent City","CEC","CEC","KCEC","Del Norte County Airport (Jack McNamara Field)","P-N",14341
+"Fresno","FAT","FAT","KFAT","Fresno Yosemite International Airport","P-S",569879
+"Inyokern","IYK","IYK","KIYK","Inyokern Airport","P-N",11109
+"Long Beach","LGB","LGB","KLGB","Long Beach Airport (Daugherty Field)","P-S",1512212
+"Los Angeles","LAX","LAX","KLAX","Los Angeles International Airport","P-L",30528737
+"Mammoth Lakes","MMH","MMH","KMMH","Mammoth Yosemite Airport","P-N [nb 4]",26201
+"Modesto","MOD","MOD","KMOD","Modesto City-County Airport (Harry Sham Field)","P-N",23487
+"Monterey","MRY","MRY","KMRY","Monterey Regional Airport (was Monterey Peninsula Airport)","P-N",190527
+"Oakland","OAK","OAK","KOAK","Oakland International Airport","P-M",4673417
+"Ontario","ONT","ONT","KONT","Ontario International Airport","P-M",2380881
+"Palm Springs","PSP","PSP","KPSP","Palm Springs International Airport","P-S",759510
+"Redding","RDD","RDD","KRDD","Redding Municipal Airport","P-N",54420
+"Sacramento","SMF","SMF","KSMF","Sacramento International Airport","P-M",4424279
+"San Diego","SAN","SAN","KSAN","San Diego International Airport","P-L",8430509
+"San Francisco","SFO","SFO","KSFO","San Francisco International Airport","P-L",20038679
+"San Jose","SJC","SJC","KSJC","Norman Y. Mineta San José International Airport","P-M",4108167
+"San Luis Obispo","SBP","SBP","KSBP","San Luis Obispo County Regional Airport (McChesney Field)","P-N",129220
+"Santa Ana","SNA","SNA","KSNA","John Wayne Airport – Orange County (was Orange County Airport)","P-M",4278623
+"Santa Barbara","SBA","SBA","KSBA","Santa Barbara Municipal Airport (Santa Barbara Airport)","P-S",382894
+"Santa Maria","SMX","SMX","KSMX","Santa Maria Public Airport (Capt G. Allan Hancock Field)","P-N",47741
+"Santa Rosa","STS","STS","KSTS","Charles M. Schulz - Sonoma County Airport","P-N",102414
+"Stockton","SCK","SCK","KSCK","Stockton Metropolitan Airport","P-N",56044
+"Aspen","ASE","ASE","KASE","Aspen-Pitkin County Airport (Sardy Field)","P-N",222755
+"Colorado Springs","COS","COS","KCOS","City of Colorado Springs Municipal Airport","P-S",877367
+"Denver","DEN","DEN","KDEN","Denver International Airport","P-L",25241962
+"Durango","DRO","DRO","KDRO","Durango-La Plata County Airport","P-N",163611
+"Eagle","EGE","EGE","KEGE","Eagle County Regional Airport","P-N",201010
+"Fort Collins / Loveland","FNL","FNL","KFNL","Fort Collins-Loveland Municipal Airport","P-N",35671
+"Grand Junction","GJT","GJT","KGJT","Grand Junction Regional Airport (Walker Field)","P-N",219358
+"Gunnison","GUC","GUC","KGUC","Gunnison-Crested Butte Regional Airport","P-N",37316
+"Hayden","HDN","HDN","KHDN","Yampa Valley Airport (Yampa Valley Regional)","P-N",110044
+"Montrose","MTJ","MTJ","KMTJ","Montrose Regional Airport","P-N",96601
+"Pueblo","PUB","PUB","KPUB","Pueblo Memorial Airport","P-N [nb 5]",11641
+"New Haven","HVN","HVN","KHVN","Tweed New Haven Regional Airport (was Tweed-New Haven Airport)","P-N",35854
+"Windsor Locks","BDL","BDL","KBDL","Bradley International Airport","P-M",2640155
+"Daytona Beach","DAB","DAB","KDAB","Daytona Beach International Airport","P-N",282784
+"Fort Lauderdale","FLL","FLL","KFLL","Fort Lauderdale–Hollywood International Airport","P-L",11332466
+"Fort Myers","RSW","RSW","KRSW","Southwest Florida International Airport","P-M",3770681
+"Gainesville","GNV","GNV","KGNV","Gainesville Regional Airport","P-N",177282
+"Jacksonville","JAX","JAX","KJAX","Jacksonville International Airport","P-M",2700514
+"Key West","EYW","EYW","KEYW","Key West International Airport","P-N",335603
+"Melbourne","MLB","MLB","KMLB","Melbourne International Airport","P-N",207829
+"Miami","MIA","MIA","KMIA","Miami International Airport","P-L",18342158
+"Orlando","MCO","MCO","KMCO","Orlando International Airport","P-L",17250415
+"Orlando","SFB","SFB","KSFB","Orlando Sanford International Airport","P-S",768938
+"Panama City Beach","ECP","ECP","KECP","Northwest Florida Beaches International Airport(opened 2010, replacing Panama City–Bay County Int'l)","P-N",417902
+"Pensacola","PNS","PNS","KPNS","Pensacola International Airport","P-S",750190
+"Punta Gorda","PGD","PGD","KPGD","Punta Gorda Airport (was Charlotte County Airport)","P-N [nb 6]",147698
+"Sarasota / Bradenton","SRQ","SRQ","KSRQ","Sarasota–Bradenton International Airport","P-S",657157
+"St. Augustine","SGJ","UST","KSGJ","Northeast Florida Regional Airport (was St. Augustine Airport)","P-N [nb 7]",19573
+"St. Petersburg","PIE","PIE","KPIE","St. Petersburg–Clearwater International Airport","P-N",412136
+"Tallahassee","TLH","TLH","KTLH","Tallahassee Regional Airport","P-S",305686
+"Tampa","TPA","TPA","KTPA","Tampa International Airport","P-L",8174194
+"Valparaiso","VPS","VPS","KVPS","Northwest Florida Regional Airport / Eglin Air Force Base","P-N",434455
+"West Palm Beach","PBI","PBI","KPBI","Palm Beach International Airport","P-M",2877158
+"Albany","ABY","ABY","KABY","Southwest Georgia Regional Airport","P-N",35494
+"Atlanta","ATL","ATL","KATL","Hartsfield-Jackson Atlanta International Airport","P-L",43130585
+"Augusta","AGS","AGS","KAGS","Augusta Regional Airport (Bush Field)","P-N",246587
+"Brunswick","BQK","BQK","KBQK","Brunswick Golden Isles Airport","P-N",30059
+"Columbus","CSG","CSG","KCSG","Columbus Airport (Columbus Metropolitan Airport)","P-N",63726
+"Savannah","SAV","SAV","KSAV","Savannah/Hilton Head International Airport","P-S",798194
+"Valdosta","VLD","VLD","KVLD","Valdosta Regional Airport","P-N",42537
+"Hilo","ITO","ITO","PHTO","Hilo International Airport","P-S",611782
+"Honolulu","HNL","HNL","PHNL","Honolulu International Airport / Hickam AFB","P-L",8740077
+"Kahului","OGG","OGG","PHOG","Kahului Airport","P-M",2587214
+"Kailua/Kona","KOA","KOA","PHKO","Kona International Airport at Keahole","P-S",1276343
+"Kaunakakai","MKK","MKK","PHMK","Molokai Airport (Molokaʻi Airport)","P-N",88688
+"Lanai City (Lānaʻi City)","LNY","LNY","PHNY","Lanai Airport (Lānaʻi Airport)","P-N",43922
+"Lihue (Līhuʻe)","LIH","LIH","PHLI","Lihue Airport (Līhuʻe Airport)","P-S",1175203
+"Boise","BOI","BOI","KBOI","Boise Airport (Boise Air Terminal) (Gowen Field)","P-S",1574210
+"Hailey","SUN","SUN","KSUN","Friedman Memorial Airport","P-N",64233
+"Idaho Falls","IDA","IDA","KIDA","Idaho Falls Regional Airport (Fanning Field)","P-N",148584
+"Lewiston","LWS","LWS","KLWS","Lewiston-Nez Perce County Airport","P-N",64379
+"Pocatello / Arbon Valley","PIH","PIH","KPIH","Pocatello Regional Airport","P-N",25756
+"Twin Falls","TWF","TWF","KTWF","Magic Valley Regional Airport (Joslin Field)","P-N",29606
+"Bloomington / Normal","BMI","BMI","KBMI","Central Illinois Regional Airport at Bloomington-Normal","P-N",274677
+"Champaign / Urbana","CMI","CMI","KCMI","University of Illinois - Willard Airport","P-N",85715
+"Chicago","ORD","ORD","KORD","Chicago O'Hare International Airport","P-L",32171831
+"Chicago","MDW","MDW","KMDW","Chicago Midway International Airport","P-L",8518957
+"Moline","MLI","MLI","KMLI","Quad City International Airport","P-S",477086
+"Peoria","PIA","PIA","KPIA","General Downing - Peoria International Airport(was Greater Peoria Regional Airport)","P-N",249595
+"Rockford","RFD","RFD","KRFD","Chicago Rockford International Airport","P-N",96974
+"Springfield","SPI","SPI","KSPI","Abraham Lincoln Capital Airport","P-N",61413
+"Evansville","EVV","EVV","KEVV","Evansville Regional Airport","P-N",193349
+"Fort Wayne","FWA","FWA","KFWA","Fort Wayne International Airport","P-N",282449
+"Indianapolis","IND","IND","KIND","Indianapolis International Airport","P-M",4061450
+"South Bend","SBN","SBN","KSBN","South Bend Regional Airport","P-S",357168
+"Cedar Rapids","CID","CID","KCID","The Eastern Iowa Airport","P-S",462670
+"Des Moines","DSM","DSM","KDSM","Des Moines International Airport","P-S",898840
+"Dubuque","DBQ","DBQ","KDBQ","Dubuque Regional Airport","P-N",33861
+"Mason City","MCW","MCW","KMCW","Mason City Municipal Airport","P-N",13852
+"Sioux City","SUX","SUX","KSUX","Sioux Gateway Airport (Col. Bud Day Field)","P-N",24704
+"Waterloo","ALO","ALO","KALO","Waterloo Regional Airport","P-N",23206
+"Garden City","GCK","GCK","KGCK","Garden City Regional Airport","P-N",10155
+"Manhattan","MHK","MHK","KMHK","Manhattan Regional Airport","P-N",44603
+"Wichita","ICT","ICT","KICT","Wichita Mid-Continent Airport","P-S",751601
+"Covington","CVG","CVG","KCVG","Cincinnati/Northern Kentucky International Airport","P-M",3906826
+"Lexington","LEX","LEX","KLEX","Blue Grass Airport","P-S",539492
+"Louisville","SDF","SDF","KSDF","Louisville International Airport (Standiford Field)","P-M",1651037
+"Owensboro","OWB","OWB","KOWB","Owensboro-Daviess County Regional Airport","P-N [nb 8]",16193
+"Paducah","PAH","PAH","KPAH","Barkley Regional Airport","P-N",19903
+"Alexandria","AEX","AEX","KAEX","Alexandria International Airport","P-N",179129
+"Baton Rouge","BTR","BTR","KBTR","Baton Rouge Metropolitan Airport (Ryan Field)","P-S",382687
+"Lafayette","LFT","LFT","KLFT","Lafayette Regional Airport","P-N",220211
+"Lake Charles","LCH","LCH","KLCH","Lake Charles Regional Airport","P-N",65340
+"Monroe","MLU","MLU","KMLU","Monroe Regional Airport","P-N",100419
+"New Orleans","MSY","MSY","KMSY","Louis Armstrong New Orleans International Airport","P-M",4088037
+"Shreveport","SHV","SHV","KSHV","Shreveport Regional Airport","P-N",237945
+"Bangor","BGR","BGR","KBGR","Bangor International Airport","P-S",355508
+"Bar Harbor","BHB","BHB","KBHB","Hancock County-Bar Harbor Airport","P-N",10562
+"Portland","PWM","PWM","KPWM","Portland International Jetport","P-S",876102
+"Presque Isle","PQI","PQI","KPQI","Northern Maine Regional Airport at Presque Isle","P-N",13385
+"Rockland","RKD","RKD","KRKD","Knox County Regional Airport","P-N",13866
+"Baltimore / Glen Burnie","BWI","BWI","KBWI","Baltimore/Washington International Thurgood Marshall Airport","P-L",10848633
+"Salisbury","SBY","SBY","KSBY","Salisbury-Ocean City Wicomico Regional Airport","P-N",65489
+"Hagerstown","HGR","HGR","KHGR","Hagerstown Regional Airport (Richard A. Henson Field)","P-N [nb 9]",10665
+"Boston","BOS","BOS","KBOS","Gen. Edward Lawrence Logan International Airport","P-L",13561814
+"Hyannis","HYA","HYA","KHYA","Barnstable Municipal Airport (Boardman/Polando Field)","P-N",124560
+"Nantucket","ACK","ACK","KACK","Nantucket Memorial Airport","P-N",201390
+"New Bedford","EWB","EWB","KEWB","New Bedford Regional Airport","P-N",12363
+"Provincetown","PVC","PVC","KPVC","Provincetown Municipal Airport","P-N",11450
+"Vineyard Haven","MVY","MVY","KMVY","Martha's Vineyard Airport","P-N",43904
+"Worcester","ORH","ORH","KORH","Worcester Regional Airport","P-N [nb 10]",35833
+"Charlevoix","CVX",,"KCVX","Charlevoix Municipal Airport","P-N",14966
+"Detroit / Romulus","DTW","DTW","KDTW","Detroit Metropolitan Wayne County Airport","P-L",15643890
+"Flint","FNT","FNT","KFNT","Bishop International Airport","P-S",497649
+"Grand Rapids","GRR","GRR","KGRR","Gerald R. Ford International Airport","P-S",1089002
+"Hancock / Calumet","CMX","CMX","KCMX","Houghton County Memorial Airport","P-N",21186
+"Kalamazoo / Battle Creek","AZO","AZO","KAZO","Kalamazoo/Battle Creek International Airport","P-N",135555
+"Lansing","LAN","LAN","KLAN","Capital Region International Airport (was Lansing Capital City)","P-N",136548
+"Marquette / Gwinn","SAW","MQT","KSAW","Sawyer International Airport","P-N",57371
+"Muskegon","MKG","MKG","KMKG","Muskegon County Airport","P-N",13088
+"Pellston","PLN","PLN","KPLN","Pellston Regional Airport of Emmet County","P-N",23324
+"Saginaw","MBS","MBS","KMBS","MBS International Airport","P-N",146870
+"Sault Ste. Marie","CIU","CIU","KCIU","Chippewa County International Airport","P-N",14349
+"Traverse City","TVC","TVC","KTVC","Cherry Capital Airport","P-N",167488
+"Bemidji","BJI","BJI","KBJI","Bemidji Regional Airport","P-N",22007
+"Brainerd","BRD","BRD","KBRD","Brainerd Lakes Regional Airport","P-N",16665
+"Duluth","DLH","DLH","KDLH","Duluth International Airport","P-N",147793
+"International Falls","INL","INL","KINL","Falls International Airport","P-N",16590
+"Minneapolis","MSP","MSP","KMSP","Minneapolis-St. Paul International Airport (Wold-Chamberlain Field)","P-L",16369324
+"Rochester","RST","RST","KRST","Rochester International Airport","P-N",151250
+"St. Cloud","STC","STC","KSTC","St. Cloud Regional Airport","P-N",20161
+"Columbus / West Point / Starkville","GTR","GTR","KGTR","Golden Triangle Regional Airport","P-N",36329
+"Gulfport / Biloxi","GPT","GPT","KGPT","Gulfport-Biloxi International Airport","P-S",461072
+"Hattiesburg / Laurel","PIB","PIB","KPIB","Hattiesburg-Laurel Regional Airport","P-N",13766
+"Jackson","JAN","JAN","KJAN","Jackson-Evers International Airport","P-S",618373
+"Meridian","MEI","MEI","KMEI","Meridian Regional Airport (Key Field)","P-N",16871
+"Tupelo","TUP","TUP","KTUP","Tupelo Regional Airport (C.D. Lemons Field)","P-N",12749
+"Branson","BBG","BKG","KBBG","Branson Airport (opened May 2009)","P-N [nb 11]",91568
+"Columbia","COU","COU","KCOU","Columbia Regional Airport","P-N",38293
+"Kansas City","MCI","MCI","KMCI","Kansas City International Airport","P-M",4946173
+"Springfield","SGF","SGF","KSGF","Springfield-Branson National Airport","P-S",381172
+"St. Louis","STL","STL","KSTL","Lambert-St. Louis International Airport","P-M",6044760
+"Billings","BIL","BIL","KBIL","Billings Logan International Airport","P-S",422494
+"Bozeman","BZN","BZN","KBZN","Bozeman Yellowstone International Airport (was Gallatin Field Airport)","P-N",349550
+"Butte","BTM","BTM","KBTM","Bert Mooney Airport","P-N",30431
+"Great Falls","GTF","GTF","KGTF","Great Falls International Airport","P-N",143811
+"Helena","HLN","HLN","KHLN","Helena Regional Airport","P-N",85649
+"Kalispell","GPI","FCA","KGPI","Glacier Park International Airport","P-N",186450
+"Missoula","MSO","MSO","KMSO","Missoula International Airport","P-N",288071
+"Grand Island","GRI","GRI","KGRI","Central Nebraska Regional Airport","P-N [nb 12]",37101
+"Lincoln","LNK","LNK","KLNK","Lincoln Airport (was Lincoln Municipal)","P-N",143230
+"Omaha","OMA","OMA","KOMA","Eppley Airfield","P-M",2097958
+"Boulder City","BVU","BLD","KBVU","Boulder City Municipal Airport","P-N",169923
+"Elko","EKO","EKO","KEKO","Elko Regional Airport (J.C. Harris Field)","P-N",21863
+"Las Vegas","LAS","LAS","KLAS","McCarran International Airport","P-L",18996738
+"Las Vegas / North Las Vegas","VGT","VGT","KVGT","North Las Vegas Airport","P-N",64674
+"Reno","RNO","RNO","KRNO","Reno/Tahoe International Airport","P-M",1857488
+"Manchester","MHT","MHT","KMHT","Manchester-Boston Regional Airport","P-M",1834875
+"Portsmouth","PSM","PSM","KPSM","Portsmouth International Airport at Pease","P-N",49962
+"Atlantic City","ACY","ACY","KACY","Atlantic City International Airport","P-S",669470
+"Newark","EWR","EWR","KEWR","Newark Liberty International Airport","P-L",16571754
+"Albuquerque","ABQ","ABQ","KABQ","Albuquerque International Sunport","P-M",2828420
+"Farmington","FMN","FMN","KFMN","Four Corners Regional Airport","P-N",13389
+"Roswell","ROW","ROW","KROW","Roswell International Air Center","P-N",38850
+"Santa Fe","SAF","SAF","KSAF","Santa Fe Municipal Airport (scheduled passenger service resumed 2009)","P-N [nb 13]",43807
+"Albany","ALB","ALB","KALB","Albany International Airport","P-S",1250282
+"Binghamton","BGM","BGM","KBGM","Greater Binghamton Airport (Edwin A. Link Field)","P-N",108988
+"Buffalo","BUF","BUF","KBUF","Buffalo Niagara International Airport","P-M",2602968
+"Elmira / Corning","ELM","ELM","KELM","Elmira/Corning Regional Airport","P-N",131358
+"Islip","ISP","ISP","KISP","Long Island MacArthur Airport","P-S",858741
+"Ithaca","ITH","ITH","KITH","Ithaca Tompkins Regional Airport","P-N",121390
+"New York","JFK","JFK","KJFK","John F. Kennedy International Airport","P-L",22934047
+"New York","LGA","LGA","KLGA","LaGuardia Airport (and Marine Air Terminal)","P-L",12001501
+"Newburgh","SWF","SWF","KSWF","Stewart International Airport","P-S",201684
+"Plattsburgh","PBG","PBG","KPBG","Plattsburgh International Airport","P-N",94808
+"Rochester","ROC","ROC","KROC","Greater Rochester International Airport","P-S",1263965
+"Syracuse","SYR","SYR","KSYR","Syracuse Hancock International Airport","P-S",1024505
+"White Plains","HPN","HPN","KHPN","Westchester County Airport","P-S",999831
+"Asheville","AVL","AVL","KAVL","Asheville Regional Airport","P-N",682306
+"Charlotte","CLT","CLT","KCLT","Charlotte/Douglas International Airport","P-L",18281425
+"Fayetteville","FAY","FAY","KFAY","Fayetteville Regional Airport (Grannis Field)","P-N",202597
+"Greensboro","GSO","GSO","KGSO","Piedmont Triad International Airport","P-S",863745
+"Greenville","PGV","PGV","KPGV","Pitt-Greenville Airport","P-N",52287
+"Jacksonville","OAJ","OAJ","KOAJ","Albert J. Ellis Airport","P-N",126947
+"New Bern","EWN","EWN","KEWN","Coastal Carolina Regional Airport (was Craven County Regional)","P-N",111184
+"Raleigh","RDU","RDU","KRDU","Raleigh-Durham International Airport","P-M",4868492
+"Wilmington","ILM","ILM","KILM","Wilmington International Airport","P-N",469993
+"Bismarck","BIS","BIS","KBIS","Bismarck Municipal Airport","P-N",178005
+"Fargo","FAR","FAR","KFAR","Hector International Airport","P-N",326941
+"Grand Forks","GFK","GFK","KGFK","Grand Forks International Airport","P-N",88093
+"Minot","MOT","MOT","KMOT","Minot International Airport","P-N",71595
+"Williston","ISN","ISN","KISN","Sloulin Field International Airport","P-N [nb 14]",12163
+"Akron","CAK","CAK","KCAK","Akron-Canton Regional Airport","P-S",715367
+"Cleveland","CLE","CLE","KCLE","Cleveland-Hopkins International Airport","P-M",4704329
+"Columbus","CMH","CMH","KCMH","Port Columbus International Airport","P-M",3096515
+"Dayton","DAY","DAY","KDAY","James M. Cox Dayton International Airport","P-S",1240848
+"Toledo","TOL","TOL","KTOL","Toledo Express Airport","P-N",93669
+"Youngstown / Warren","YNG","YNG","KYNG","Youngstown-Warren Regional Airport / Youngstown ARS","P-N",17391
+"Lawton","LAW","LAW","KLAW","Lawton–Fort Sill Regional Airport","P-N",77533
+"Oklahoma City","OKC","OKC","KOKC","Will Rogers World Airport","P-S",1838709
+"Tulsa","TUL","TUL","KTUL","Tulsa International Airport","P-S",1606622
+"Eugene","EUG","EUG","KEUG","Eugene Airport (Mahlon Sweet Field)","P-N",369397
+"Klamath Falls","LMT","LMT","KLMT","Klamath Falls Airport (Kingsley Field)","P-N",21353
+"Medford","MFR","MFR","KMFR","Rogue Valley International-Medford Airport","P-N",310824
+"North Bend","OTH","OTH","KOTH","Southwest Oregon Regional Airport (was North Bend Municipal)","P-N",23124
+"Portland","PDX","PDX","KPDX","Portland International Airport","P-M",6582227
+"Redmond","RDM","RDM","KRDM","Redmond Municipal Airport (Roberts Field)","P-N",226400
+"Allentown","ABE","ABE","KABE","Lehigh Valley International Airport","P-S",414427
+"Erie","ERI","ERI","KERI","Erie International Airport (Tom Ridge Field)","P-N",127184
+"Harrisburg / Middletown","MDT","MDT","KMDT","Harrisburg International Airport","P-S",664968
+"Philadelphia","PHL","PHL","KPHL","Philadelphia International Airport","P-L",14951254
+"Pittsburgh","PIT","PIT","KPIT","Pittsburgh International Airport","P-M",3996656
+"State College","UNV","SCE","KUNV","University Park Airport","P-N",143531
+"Wilkes-Barre / Scranton","AVP","AVP","KAVP","Wilkes-Barre/Scranton International Airport","P-N",213422
+"Williamsport","IPT","IPT","KIPT","Williamsport Regional Airport","P-N",22519
+"Providence / Warwick","PVD","PVD","KPVD","Theodore Francis Green State Airport","P-M",2342593
+"Charleston","CHS","CHS","KCHS","Charleston International Airport / Charleston AFB","P-S",2520829
+"Columbia","CAE","CAE","KCAE","Columbia Metropolitan Airport","P-S",565938
+"Florence","FLO","FLO","KFLO","Florence Regional Airport","P-N",64835
+"Greer","GSP","GSP","KGSP","Greenville-Spartanburg International Airport (Roger Milliken Field)","P-S",699805
+"Hilton Head Island","HXD","HHH","KHXD","Hilton Head Airport","P-N",79912
+"Myrtle Beach","MYR","MYR","KMYR","Myrtle Beach International Airport","P-S",705430
+"Aberdeen","ABR","ABR","KABR","Aberdeen Regional Airport","P-N",23225
+"Pierre","PIR","PIR","KPIR","Pierre Regional Airport","P-N",15983
+"Rapid City","RAP","RAP","KRAP","Rapid City Regional Airport","P-N",273151
+"Sioux Falls","FSD","FSD","KFSD","Sioux Falls Regional Airport (Joe Foss Field)","P-S",367874
+"Bristol / Johnson City / Kingsport","TRI","TRI","KTRI","Tri-Cities Regional Airport (Tri-Cities Regional TN/VA)","P-N",202730
+"Chattanooga","CHA","CHA","KCHA","Chattanooga Metropolitan Airport (Lovell Field)","P-N",300796
+"Knoxville","TYS","TYS","KTYS","McGhee Tyson Airport","P-S",839266
+"Memphis","MEM","MEM","KMEM","Memphis International Airport","P-M",5376818
+"Nashville","BNA","BNA","KBNA","Nashville International Airport (Berry Field)","P-M",4648000
+"Abilene","ABI","ABI","KABI","Abilene Regional Airport","P-N",73605
+"Amarillo","AMA","AMA","KAMA","Rick Husband Amarillo International Airport","P-S",394593
+"Austin","AUS","AUS","KAUS","Austin-Bergstrom International Airport","P-M",4489297
+"Beaumont / Port Arthur","BPT","BPT","KBPT","Southeast Texas Regional Airport","P-N",17394
+"Brownsville","BRO","BRO","KBRO","Brownsville/South Padre Island International Airport","P-N",84401
+"College Station","CLL","CLL","KCLL","Easterwood Airport (Easterwood Field)","P-N",72188
+"Corpus Christi / Kingsville","CRP","CRP","KCRP","Corpus Christi International Airport","P-N",339193
+"Dallas","DAL","DAL","KDAL","Dallas Love Field","P-M",3783407
+"Dallas–Fort Worth","DFW","DFW","KDFW","Dallas–Fort Worth International Airport","P-L",27100656
+"Del Rio","DRT","DRT","KDRT","Del Rio International Airport","P-N",13180
+"El Paso","ELP","ELP","KELP","El Paso International Airport","P-S",1509093
+"Fort Hood / Killeen / Temple","GRK","GRK","KGRK","Killeen-Fort Hood Regional Airport / Robert Gray Army Airfield","P-N",243861
+"Harlingen","HRL","HRL","KHRL","Valley International Airport","P-S",373438
+"Houston","IAH","IAH","KIAH","George Bush Intercontinental Airport","P-L",19528627
+"Houston","HOU","HOU","KHOU","William P. Hobby Airport","P-M",4357835
+"Laredo","LRD","LRD","KLRD","Laredo International Airport","P-N",112520
+"Longview","GGG","GGG","KGGG","East Texas Regional Airport","P-N",21830
+"Lubbock","LBB","LBB","KLBB","Lubbock Preston Smith International Airport","P-S",508858
+"McAllen","MFE","MFE","KMFE","McAllen-Miller International Airport","P-N",344302
+"Midland","MAF","MAF","KMAF","Midland International Airport","P-S",445043
+"San Angelo","SJT","SJT","KSJT","San Angelo Regional Airport (Mathis Field)","P-N",56021
+"San Antonio","SAT","SAT","KSAT","San Antonio International Airport","P-M",3916320
+"Tyler","TYR","TYR","KTYR","Tyler Pounds Regional Airport","P-N",74357
+"Waco","ACT","ACT","KACT","Waco Regional Airport","P-N",61401
+"Wichita Falls","SPS","SPS","KSPS","Wichita Falls Municipal Airport / Sheppard Air Force Base","P-N",44296
+"Provo","PVU","PVU","KPVU","Provo Municipal Airport","P-N",14858
+"Salt Lake City","SLC","SLC","KSLC","Salt Lake City International Airport","P-L",9993198
+"St. George","DXZ","SGU","KDXZ","St. George Municipal Airport (opened 2011)","P-N [nb 15]",48582
+"Wendover","ENV","ENV","KENV","Wendover Airport (charter flights)","P-N [nb 16]",46264
+"Burlington","BTV","BTV","KBTV","Burlington International Airport","P-S",747559
+"Charlottesville","CHO","CHO","KCHO","Charlottesville-Albemarle Airport","P-N",169843
+"Lynchburg","LYH","LYH","KLYH","Lynchburg Regional Airport (Preston Glenn Field)","P-N",55307
+"Newport News","PHF","PHF","KPHF","Newport News/Williamsburg International Airport","P-S",504292
+"Norfolk","ORF","ORF","KORF","Norfolk International Airport","P-M",1786594
+"Richmond","RIC","RIC","KRIC","Richmond International Airport (Byrd Field)","P-S",1733668
+"Roanoke","ROA","ROA","KROA","Roanoke Regional Airport (Woodrum Field)","P-N",315293
+"Washington D.C. (Arlington County)","DCA","DCA","KDCA","Ronald Reagan Washington National Airport","P-L",8704466
+"Washington D.C. (Chantilly / Dulles)","IAD","IAD","KIAD","Washington Dulles International Airport","P-L",11348775
+"Bellingham","BLI","BLI","KBLI","Bellingham International Airport","P-N",515402
+"Friday Harbor","FHR","FRD","KFHR","Friday Harbor Airport","P-N",11283
+"Pasco","PSC","PSC","KPSC","Tri-Cities Airport","P-N",327008
+"Port Angeles","CLM","CLM","KCLM","William R. Fairchild International Airport","P-N",8242
+"Pullman / Moscow Idaho","PUW","PUW","KPUW","Pullman-Moscow Regional Airport","P-N",39134
+"Seattle","BFI","BFI","KBFI","King County International Airport (Boeing Field)","P-N",185534
+"Seattle / Tacoma (SeaTac)","SEA","SEA","KSEA","Seattle-Tacoma International Airport","P-L",15971676
+"Spokane","GEG","GEG","KGEG","Spokane International Airport (Geiger Field)","P-S",1487913
+"Walla Walla","ALW","ALW","KALW","Walla Walla Regional Airport","P-N",32139
+"Wenatchee","EAT","EAT","KEAT","Pangborn Memorial Airport","P-N",50927
+"Yakima","YKM","YKM","KYKM","Yakima Air Terminal (McAllister Field)","P-N",55902
+"Charleston","CRW","CRW","KCRW","Yeager Airport","P-N",243793
+"Clarksburg","CKB","CKB","KCKB","North Central West Virginia Airport (was Harrison-Marion Regional)","P-N [nb 17]",10344
+"Huntington","HTS","HTS","KHTS","Tri-State Airport (Milton J. Ferguson Field)","P-N",83531
+"Morgantown","MGW","MGW","KMGW","Morgantown Municipal Airport (Walter L. Bill Hart Field)","P-N [nb 18]",10630
+"Appleton","ATW","ATW","KATW","Outagamie County Regional Airport","P-N",259340
+"Eau Claire","EAU","EAU","KEAU","Chippewa Valley Regional Airport","P-N",18762
+"Green Bay","GRB","GRB","KGRB","Austin Straubel International Airport","P-S",410348
+"La Crosse","LSE","LSE","KLSE","La Crosse Municipal Airport","P-N",111462
+"Madison","MSN","MSN","KMSN","Dane County Regional Airport (Truax Field)","P-S",728075
+"Milwaukee","MKE","MKE","KMKE","General Mitchell International Airport","P-M",3861333
+"Wausau","CWA","CWA","KCWA","Central Wisconsin Airport","P-N",154312
+"Rhinelander","RHI","RHI","KRHI","Rhinelander-Oneida County Airport","P-N",26193
+"Casper","CPR","CPR","KCPR","Casper/Natrona County International Airport","P-N",74167
+"Cheyenne","CYS","CYS","KCYS","Cheyenne Regional Airport (Jerry Olson Field)","P-N",16697
+"Cody","COD","COD","KCOD","Yellowstone Regional Airport","P-N",25863
+"Gillette","GCC","GCC","KGCC","Gillette-Campbell County Airport","P-N",28232
+"Jackson","JAC","JAC","KJAC","Jackson Hole Airport","P-N",305566
+"Laramie","LAR","LAR","KLAR","Laramie Regional Airport","P-N",10371
+"Riverton","RIW","RIW","KRIW","Riverton Regional Airport","P-N",17035
+"Rock Springs","RKS","RKS","KRKS","Rock Springs – Sweetwater County Airport","P-N",25541
+"Sheridan","SHR","SHR","KSHR","Sheridan County Airport","P-N",17710
+"Pago Pago Tutuila","PPG","PPG","NSTU","Pago Pago International Airport","P-N",45206
+"Agana / Tamuning","GUM","GUM","PGUM","Antonio B. Won Pat International Airport","P-S",1314725
+"Obyan Saipan Island","GSN","SPN","PGSN","Saipan International Airport (Francisco C. Ada)","P-S",441013
+"Rota Island","GRO","ROP","PGRO","Rota International Airport","P-N",27776
+"Tinian Island","TNI","TIQ","PGWT","Tinian International Airport (West Tinian)","P-N",24806
+"Aguadilla","BQN","BQN","TJBQ","Rafael Hernández International Airport","P-N",240270
+"Ponce","PSE","PSE","TJPS","Mercedita International Airport","P-N",110159
+"San Juan / Carolina","SJU","SJU","TJSJ","Luis Muñoz Marín International Airport","P-M",4635798
+"San Juan / Miramar","SIG","SIG","TJIG","Fernando Luis Ribas Dominicci Airport (Isla Grande Airport)","P-N [nb 19]",13837
+"Vieques","VQS","VQS","TJVQ","Antonio Rivera Rodríguez Airport","P-N",21517
+"Charlotte Amalie St. Thomas","STT","STT","TIST","Cyril E. King Airport","P-S",593589
+"Christiansted St. Croix","STX","STX","TISX","Henry E. Rohlsen Airport","P-N",169665

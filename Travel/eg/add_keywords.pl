@@ -1,0 +1,97 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+use lib qw(../../);
+use Travel::Database::DBConfig;
+
+my %keywords   = (
+        january   => "MonthName",
+        february  => "MonthName",
+        march     => "MonthName",
+        april     => "MonthName",
+        may       => "MonthName",
+        june      => "MonthName",
+        july      => "MonthName",
+        august    => "MonthName",
+        september => "MonthName",
+        october   => "MonthName",
+        november  => "MonthName",
+        december  => "MonthName",
+        monday    => "DayName",
+        tuesday   => "DayName",
+        wednesday => "DayName",
+        thursday  => "DayName",
+        friday    => "DayName",
+        saturday  => "DayName",
+        sunday    => "DayName",
+        air       => "Travel",
+        book      => "Travel",
+        best      => "Travel",
+        want      => "Travel",
+        ticket    => "Travel",
+        travel    => "Travel",
+        trip      => "Travel",
+        cheap     => "Travel",
+        flight    => "Travel",
+        flights   => "Travel",
+        fare      => "Travel",
+        price     => "Travel",
+        round     => "Travel",
+        journey   => "Travel",
+        oneway    => "TripType",
+        roundtrip => "TripType",
+        from      => "Location",
+        departure => "Location",
+        depart    => "Location",
+        return    => "Location",
+        departs   => "Location",
+        returns   => "Location",
+        departing => "Location",
+        returning => "Location",        
+        today     => "DayIndicator",
+        tommorrow => "DayIndicator",
+        week      => "DayIndicator",
+        weekend   => "DayIndicator",
+        day       => "DayIndicator",
+        days      => "DayIndicator",
+        night     => "DayIndicator",
+        nights    => "DayIndicator",        
+        summer    => "Season",
+        winter    => "Season",
+        fall      => "Season",
+        spring    => "Season",
+        autumn    => "Season",        
+        adult     => "Passenger",
+        adults    => "Passenger",
+        child     => "Passenger",
+        children  => "Passenger",
+        infant    => "Passenger",
+        wife      => "Passenger",
+        husband   => "Passenger",
+        baby      => "Passenger",
+        kids      => "Passenger",
+        family    => "Passenger",
+        friend    => "Passenger",
+        friends   => "Passenger",
+        babies    => "Passenger",        
+        daughter  => "Passenger",
+        mother    => "Passenger",
+        father    => "Passenger",
+        brother   => "Passenger",        
+        parents   => "Passenger",
+        people    => "Passenger",
+        passenger => "Passenger",
+        passengers=> "Passenger",
+);
+
+my $dbm         = Travel::Database::DBConfig->new;
+my $schema      = $dbm->get_handle();
+
+foreach my $key (keys %keywords) {
+    $schema->resultset('TravelKeywords')->create({ 
+        word        => $key,
+        word_class  => $keywords{ $key }, 
+    });
+}

@@ -1,0 +1,148 @@
+Afaghanistan
+'KBL', 'KDH', 'HEA', 'MZR', 'JAA', 'UND'
+
+Algeria
+'AZR',  'ALG',  'AAE',  'CZL',  'GHA',  'HME',  'IAM',  'ORN',  'TMR',  'TEE',  'TLM',  'BLJ',  'BJA',  'BMW',  'DJG',  'QAS',  'ELG',  'ELU',  'MUW',  'VVZ',  'INZ',  'GJL',  'TID',  'TMX',  'TGR'
+
+Angola
+'BUG',  'CAB',  'CBT',  'DUE',  'NOV',  'KNP',  'SVP',  'LAD',  'SDD',  'LBZ',  'LUO',  'MEG',  'SSY',  'SPP',  'MSZ',  'GXG',  'VPE',  'NGV',  'VHC',  'SZA'
+
+Argentina
+'BHI',  'BRC',  'AEP',  'EZE',  'CTC',  'CRD',  'COR',  'CNQ',  'FTE',  'EQS',  'FMA',  'GGS',  'JUJ',  'IRJ',  'LGS',  'MDQ',  'MDZ',  'NEC',  'NQN',  'PRA',  'PMQ',  'PSS',  'PUD',  'IGR',  'PMY',  'ULA',  'RAF',  'RES',  'RGL',  'RGA',  'ROS',  'SLA',  'UAQ',  'LUQ',  'CPC',  'AFA',  'RZA',  'RSA',  'SST',  'SDE',  'SFN',  'TDL',  'REL',  'TUC',  'USH',  'VDM',  'VLG'
+
+Bahamas
+'MHH',  'TCB',  'ASD',  'SAQ',  'BIM',  'ATC',  'CAT',  'CRI',  'GHB',  'ELH',  'RSD',  'GGT',  'FPO',  'IGA',  'LGI',  'MYG',  'NAS',  'ZSA'
+
+Bangladesh
+'DAC',  'CGP',  'ZYL',  'RJH',  'JSR',  'SPD',  'CXB'
+
+Bolivia
+'CIJ',  'CBB',  'GYA',  'LPB',  'PSZ',  'RIB',  'RBQ',  'SRJ',  'SBL',  'VVI',  'SRZ',  'SRE',  'TJA',  'TDD',  'BYC'
+
+Brazil
+'AFL',  'ATM',  'AJU',  'ARU',  'AUX',  'AAX',  'BAZ',  'BRA',  'JTC',  'BEL',  'PLU',  'CNF',  'BVB',  'LAZ',  'BYO',  'BSB',  'CFB',  'CFC',  'QAC',  'CLV',  'CPV',  'VCP',  'CGR',  'CAW',  'CSK',  'CAC',  'CXJ',  'XAP',  'CIZ',  'CDJ',  'CFO',  'CMG',  'CCM',  'CZS',  'CGB',  'CWB',  'DTI',  'DOU',  'ERN',  'ERM',  'FEN',  'FLN',  'FBA',  'FOR',  'IGU',  'FBE',  'GYN',  'GVR',  'GRP',  'HUW',  'IOS',  'IMP',  'IPN',  'ITB',  'JPR',  'JCB',  'JPA',  'JOI',  'JUA',  'JDO',  'JIA',  'JDF',  'IZA',  'LBR',  'LEC',  'LDB',  'MEA',  'MCP',  'MCZ',  'MAO',  'MAB',  'MII',  'MGF',  'MQH',  'MEU',  'MOC',  'NAT',  'NVT',  'NPR',  'OIA',  'PMW',  'PIN',  'PFB',  'POJ',  'PET',  'PNZ',  'POA',  'BPS',  'TMT',  'PVH',  'PPB',  'REC',  'RDC',  'REZ',  'RAO',  'RBR',  'GIG',  'SDU',  'RIG',  'RVD',  'ROO',  'SSA',  'IRZ',  'RIA',  'STM',  'GEL',  'SXO',  'SJL',  'JDR',  'SJP',  'SJK',  'SLZ',  'CGH',  'GRU',  'OLC',  'OPS',  'TBT',  'TFF',  'THE',  'TUR',  'UBA',  'UDI',  'UNA',  'URG',  'VAG',  'BVH',  'VIX',  'VDC'
+
+Chile
+'ANF',  'ARI',  'BBA',  'CJC',  'CCP',  'CPO',  'ESR',  'IQQ',  'IPC',  'LSC',  'ZOS',  'ZPC',  'PMC',  'PUQ',  'SCL',  'ZCO',  'ZAL'
+
+Columbia
+'AXM',  'BAX',  'BOG',  'BGA',  'CLO',  'CTG',  'CUC',  'LET',  'MDE',  'PEI',  'ADZ',  'SMR',  'APO',  'AUC',  'BSC',  'EJA',  'BUN',  'CRC',  'CZU',  'EYP',  'FLA',  'GPI',  'IBE',  'IPI',  'MCJ',  'MZL',  'EOH',  'MVP',  'MTR',  'NVA',  'NQU',  'PSO',  'PPN',  'PVA',  'PUU',  'PCR',  'UIB',  'RCH',  'SJE',  'SVI',  'RVE',  'TME',  'TCO',  'VUP',  'VVC'
+
+Ivory coast
+'ABJ'
+
+Cuba
+'BCA',  'BYM',  'CMW',  'CCC',  'CYO',  'AVI',  'CFG',  'GAO',  'HAV',  'UPB',  'HOG',  'MZO',  'MOA',  'GER',  'SNU',  'SCU',  'VRA',  'VTU'
+
+Completed Database update for above data
+=========================
+Egypt (EG)
+'AUE', 'ABS', 'ALY', 'HBE', 'ATZ', 'ASW', 'CAI', 'DAK', 'AAC', 'HGO', 'EGH', 'UVL', 'ELT', 'HRG', 'LXR', 'RMF', 'MUH', 'UVL', 'PSD', 'RAF', 'GSQ', 'SSH', 'QHX', 'SKV', 'TCP', 'CWE'
+
+Ethiopia (ET)
+'ADD', 'AMH', 'ASO', 'AXU', 'BJR', 'DIR', 'GMB', 'GDE', 'GDQ', 'HUE', 'JIJ', 'JIM', 'ABK', 'LLI', 'MQX', 'SHC'
+
+Fiji (FJ)
+'ICI', 'KXF', 'LBS', 'LKB', 'LEV', 'PTF', 'MNF', 'TVU', 'MFJ', 'NAN', 'SUV', 'NGI', 'RBI', 'RTA', 'SVU', 'VBV', 'KDV'
+
+French Polynesia (PF)
+'AHE', 'AAA', 'APK', 'AXR', 'BOB', 'FAV', 'HOI', 'HIX', 'HUH', 'KKR', 'MKP', 'XMH', 'MVT', 'MAU', 'MOZ', 'NHV', 'PKP', 'RFP', 'RGI', 'RMT', 'RUR', 'PPT', 'TKP', 'TKX', 'TIH', 'GMR', 'TUB', 'UAH', 'UAP'
+
+Greenland (GL)
+'JEG', 'JAV', 'CNP', 'SFJ', 'KUS', 'JSU', 'UAK', 'GOH', 'JFR', 'THU', 'NAQ', 'JQA', 'JHS', 'JUV'
+
+Guyana (GY)
+'GEO', 'KIA'
+
+Honduras (HN)
+'GJA', 'LCE', 'RTB', 'SAP', 'TGU'
+
+Indonesia (ID)
+'BDO', 'CBN', 'CGK', 'CXP', 'PCB', 'HLP', 'MLG', 'SRG', 'SUB', 'SOC', 'JOG', 'BTJ', 'TKG', 'BTH', 'BKS', 'GNS', 'DJB', 'PDG', 'LSE', 'MES', 'AEG', 'PLM', 'PGK', 'SIW', 'PKU', 'SIX', 'SQT', 'TJQ', 'TNJ', 'BPN', 'BDJ', 'BEJ', 'BXT', 'DTD', 'KTG', 'LPU', 'LBW', 'NNX', 'PKY', 'PKN', 'PNK', 'PSU', 'SRI', 'SMQ', 'SQG', 'TJS', 'TRK', 'GTO', 'KDI', 'PSJ', 'UPG', 'MDC', 'PLW', 'BMU', 'DPS', 'ENE', 'KOE', 'LBJ', 'LOP', 'AMI', 'MOF', 'WGP', 'AMQ', 'BIK', 'FKQ', 'DJJ', 'KNG', 'LUV', 'MKW', 'MKQ', 'OTI', 'FOO', 'SOQ', 'TIM', 'AHI', 'TTE'
+
+Iran (IR)
+'ABD', 'AWZ', 'AJK', 'ADU', 'YEH', 'PGU', 'BXR', 'BND', 'BDH', 'XBJ', 'BJB', 'BUZ', 'ZBR', 'GBT', 'HDM', 'IIL', 'IFN', 'JYR', 'KER', 'KSH', 'KHD', 'KHY', 'KIH', 'LFM', 'LRR', 'MRX', 'ACP', 'MHD', 'NSH', 'PFQ', 'GSM', 'RJN', 'RZR', 'RAS', 'AFZ', 'SDG', 'SRY', 'CQD', 'SYZ', 'TBZ', 'IKA', 'THR', 'OMH', 'YES', 'AZD', 'ACZ', 'ZAH'
+
+Israel (IL)
+'TLV', 'VDA', 'BEV', 'ETH', 'HFA', 'HRZ', 'JRS', 'KSW', 'RPN', 'SDV'
+
+Liberia (LR)
+'ROB', 'MLW'
+
+Libya (LY)
+'LAQ', 'BEN', 'LTD', 'GHT', 'AKF', 'MRA', 'SEB', 'SRX', 'TOB', 'MJI', 'TIP', 'QUB'
+
+Madagascar (MG)
+'WMA', 'MJA', 'WMN', 'ZVA', 'TVA', 'MXM', 'MOQ', 'NOS', 'WPB', 'SMS', 'SVB', 'DWB', 'WTA', 'TDV', 'TMM', 'FTU', 'TLE', 'TTS', 'WTS', 'IVA', 'AMY', 'WAM', 'HVA', 'JVA', 'ANM', 'TNR', 'WAQ', 'DIE', 'WAI', 'BMD', 'BPY', 'RVA', 'WFI', 'MJN', 'MXT', 'WMP', 'WMR', 'MNJ', 'VOH'
+
+Malaysia (MY)
+'AOR', 'MKZ', 'PEN', 'IPH', 'KTE', 'KBR', 'TGG', 'KUA', 'LGK', 'MKZ', 'PKG', 'RDN', 'JHB', 'KUL', 'SZB', 'TOD', 'BKM', 'BBN', 'BTU', 'BKI', 'KCH', 'KUD', 'LBU', 'LDU', 'LWY', 'LMN', 'LKH', 'LBP', 'LGL', 'ODN', 'LSU', 'MUR', 'MYY', 'MKM', 'MZV', 'SDK', 'SBW', 'TWU', 'TMG'
+
+Mauritania (MR)
+'NDB', 'NKC', 'OUZ'
+
+Mexico (MX)
+'ACA', 'AGU', 'XAL', 'AZG', 'AZP', 'CSL', 'CPE', 'CNA', 'CUN', 'CDI', 'CYW', 'CTM', 'CZA', 'CUU', 'ACN', 'CUA', 'CME', 'MMC', 'CJS', 'CEN', 'CVM', 'CLQ', 'CJT', 'CZM', 'CVJ', 'CUL', 'DGO', 'ESE', 'GDL', 'GYM', 'GUB', 'HMO', 'HUX', 'ISJ', 'ZIH', 'IZT', 'LAP', 'LOM', 'LZC', 'BJX', 'LTO', 'SJD', 'LMM', 'ZLO', 'MAM', 'MZT', 'MID', 'MXL', 'MEX', 'MTT', 'LOV', 'MTY', 'NTR', 'MLM', 'MUG', 'NVJ', 'NOG', 'NCG', 'NLD', 'OAX', 'PQM', 'TRC', 'PDS', 'PCM', 'PAZ', 'PBC', 'PXM', 'PPE', 'PVR', 'QRO', 'REX', 'SCX', 'SLW', 'SZT', 'SFH', 'SLP', 'UAC', 'SLM', 'PVP', 'TAM', 'TSL', 'TAP', 'TCP', 'TCN', 'TPQ', 'TIJ', 'TZM', 'TLC', 'TRC', 'TUY', 'TUX', 'TGZ', 'TGM', 'UPN', 'VER', 'VSA', 'JAL', 'ZCL', 'ZMM', 'ZAP'
+
+Mongolia (MN)
+'ULN', 'LTI', 'AVK', 'BYN', 'UGA', 'COQ', 'DLZ', 'HVD', 'MXW', 'MXV', 'ULO', 'ULG'
+
+Morocco (MA)
+'AGA', 'AHU', 'CAS', 'CMN', 'ERH', 'ESU', 'FEZ', 'RAK', 'NDR', 'OZZ', 'OUD', 'RBA', 'TNG', 'TTA', 'TTU'
+
+Mozambique (MZ)
+'BZB', 'BEW', 'BCW', 'VPY', 'IBL', 'INH', 'VXC', 'MPM', 'APL', 'POL', 'UEL', 'TET', 'VNX'
+
+Myanmar (MM)
+'MDL', 'RGN', 'NPT', 'NYU', 'BMO', 'TVY', 'HEH', 'KMV', 'KAW', 'KET', 'KHM', 'KYP', 'LSH', 'LIW', 'MNU', 'MOG', 'MGZ', 'MYT', 'PKK', 'BSX', 'PBU', 'AKY', 'THL', 'SNW'
+
+Nepal (NP)
+'BJH', 'BDP', 'BWA', 'BHR', 'BHP', 'BIR', 'HRJ', 'DNP', 'DHI', 'DOP', 'JKR', 'JMO', 'JUM', 'KTM', 'LDN', 'LUA', 'NGX', 'MEY', 'KEP', 'PPL', 'PKR', 'RHP', 'TAL', 'RUK', 'RUM', 'SIF', 'IMK', 'SKH', 'TPJ', 'TMI'
+
+Oman (OM)
+'JNJ', 'KHS', 'MCT', 'SLL'
+
+Pakistan (PK)
+'BHV', 'CJL', 'DBA', 'DEA', 'DSK', 'LYP', 'GIL', 'GWD', 'HDD', 'ISB', 'KCF', 'KHI', 'LHE', 'MJD', 'MUX', 'WNS', 'PJG', 'PEW', 'UET', 'RYK', 'SKT', 'RZS', 'KDU', 'SKZ', 'TUK', 'PZH'
+
+Panama (PA)
+'BOC', 'CHX', 'ONX', 'DAV', 'PAC', 'PTY'
+
+Papua New Guinea (PG)
+'GUR', 'AWB', 'VMU', 'OPU', 'BOT', 'BUA', 'BUL', 'DAU', 'EFG', 'FNE', 'GKA', 'HKN', 'ITK', 'KGW', 'KUY', 'KVG', 'KMA', 'KRI', 'UNG', 'KKD', 'LNV', 'CMU', 'LAE', 'LMY', 'MAS', 'LSA', 'MAG', 'MRM', 'MDU', 'MMV', 'MIS', 'MXH', 'HGU', 'NOM', 'OBX', 'ONB', 'PNP', 'POM', 'RAB', 'TDS', 'SKC', 'TBG', 'TPI', 'TIZ', 'TFI', 'VAI', 'WAO', 'AGL', 'WBM', 'WWK', 'WPM', 'WTP'
+
+Philippines (PH)
+'BCD', 'CRK', 'DVO', 'GES', 'ILO', 'KLO', 'LAO', 'CEB', 'MNL', 'PPS', 'SFS', 'ZAM', 'BXU', 'CGY', 'CBO', 'DPL', 'DGT', 'LGP', 'WNP', 'PAG', 'RXS', 'SJI', 'TAC', 'TAG', 'TUG'
+
+Saudi Arabia (SA)
+'DMM', 'JED', 'RUH', 'MED', 'AHB', 'ELQ', 'GIZ', 'HAS', 'TUU', 'TIF', 'YNB', 'ABT', 'HOF', 'AJF', 'EJH', 'RAE', 'BHH', 'DWD', 'URY', 'HBT', 'EAM', 'AQI', 'RAH', 'ESH', 'TUI', 'EWD'
+
+Solomon Islands (SB)
+'AFT', 'RNA', 'ATD', 'AKS', 'BAS', 'BNY', 'CHY', 'FRE', 'GTA', 'GZO', 'HIR', 'KGE', 'IRA', 'RUS', 'MBU', 'MNY', 'MUA', 'RBV', 'RNL', 'NNB', 'SCZ', 'EGM', 'VAO', 'XYA'
+
+Taiwan (TW)
+'KHH', 'RMQ', 'TSA', 'TPE', 'CYI', 'GNI', 'HCN', 'HUN', 'KNH', 'MZG', 'MFK', 'LZN', 'KYD', 'PIF', 'CMJ', 'TNN', 'TTT'
+
+Thailand (TH)
+'DMK', 'BKK', 'BFV', 'CNX', 'CEI', 'CJM', 'HDY', 'HHQ', 'KKC', 'USM', 'KBV', 'LPT', 'LOE', 'HGN', 'MAQ', 'KOP', 'NST', 'NNT', 'NAW', 'PYY', 'PHY', 'PHS', 'PRH', 'HKT', 'UTP', 'ROI', 'SNO', 'THS', 'URT', 'TST', 'TDX', 'UBP', 'UTH'
+
+United Arab Emirates (AE)
+'AUH', 'DXB', 'SHJ'
+
+Vanuatu (VU)
+'AUY', 'AWD', 'CCV', 'DLY', 'EAE', 'FTA', 'ZGU', 'IPA', 'LPM', 'LNB', 'LOD', 'LNE', 'SON', 'MWF', 'MTV', 'NUS', 'OLJ', 'PBJ', 'VLI', 'RCL', 'SSR', 'SLH', 'SWJ', 'TAH', 'TGH', 'TOH', 'ULB', 'VLS', 'WLH'
+
+Viet Nam (VN)
+'VCA', 'DLI', 'DAD', 'HPH', 'HAN', 'SGN', 'HUI', 'CXR', 'BMV', 'CAH', 'VCS', 'DIN', 'VDH', 'VDH', 'PQC', 'PXU', 'UIH', 'VKG', 'SQH', 'TBB', 'VII', 'VTG'
+
+Yemen (YE)
+'ADE', 'AAY', 'HOD', 'RIY', 'SAH', 'GXF', 'SCT', 'TAI'
+
+Zaire (ZR)
+'FDU', 'BSU', 'BUX', 'BDT', 'GMA', 'GOM', 'PFR', 'IRP', 'FMI', 'KGA', 'KKW', 'KND', 'FIH', 'NLO', 'KRZ', 'FKI', 'KWZ', 'LJA', 'FBM', 'MDK', 'MJM', 'NIO', 'TSH'
+
+Zambia (ZM)
+'CIP', 'LVI', 'LUN', 'MFU', 'NLA', 'SLI'
+
+Zimbabwe (ZW)
+'BUQ', 'HRE', 'VFA'
